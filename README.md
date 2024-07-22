@@ -9,7 +9,9 @@
 - [The Oscars of AI Theater: A Survey on Role-Playing with Language Models](https://arxiv.org/abs/2407.11484)
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
 - [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)
-
+- [Embodied LLM Agents Learn to Cooperate in Organized Teams](https://arxiv.org/abs/2403.12482)
+- [AgentVerse/ Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
+- 
 
 ## 来源
 
